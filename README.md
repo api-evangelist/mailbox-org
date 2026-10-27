@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mailbox.org is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mailbox.org/
+mailbox.org provides a secure, privacy‑focused email and collaboration suite for individuals and businesses. Hosted in German data centres, it offers encrypted mail, cloud drive, video meetings, and office tools, all compliant with GDPR, ISO 27001 and BSI C5. The service emphasizes data sovereignty, green energy operation, and a range of pricing plans from personal to enterprise.
+
+**Areas:** Email · Collaboration · Privacy · GDPR · German
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mailbox.org/)
+- [Documentation](https://kb.mailbox.org/en/)
+- [Support](https://support.mailbox.org)
+- [Blog](https://mailbox.org/en/blog/)
+- [Status](https://status.mailbox.org)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mailbox-org/](https://apis.io/providers/mailbox-org/).
